@@ -1,4 +1,4 @@
-# 
+# quantitative deribit trading bot Plugin | latency-optimization + arbitrage-scanning offers the most advanced deribit trading bot, with latency-optimization and arbitrage-scanning.
 
 
 
